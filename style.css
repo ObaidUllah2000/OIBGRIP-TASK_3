@@ -8,13 +8,15 @@
     font-size: 18px;
 }
 body{
-    background-color: #09140b;
-    opacity: .8;
+    /* background-color: #09140b;
+    opacity: .8; */
+    background-image: url('/tem.jpg');
+    size: cover;
 }
 
 h1.title {
-    background: #0c0c0c;
-    color: rgb(247, 249, 255);
+    background: none;
+    color: rgb(2, 2, 2);
     font-size: 2rem;
     text-align: center;
     padding: 20px;
